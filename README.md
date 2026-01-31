@@ -32,9 +32,9 @@ I care about code that survives updates, real players using it, and systems that
 
 ### What I’m building
 
-- 🧱 **Kashimoto Network** – persistent Bedrock world, custom systems, and supporting web stack  
-- 🤖 Discord bots – status, moderation, and game integration for Minecraft and FiveM  
-- 🛠 Internal tools – small utilities that automate boring server admin work
+- **Kashimoto Network** – persistent Bedrock world, custom systems, and supporting web stack  
+- Discord bots – status, moderation, and game integration for Minecraft and FiveM  
+- Internal tools – small utilities that automate boring server admin work
 
 ---
 
@@ -43,12 +43,3 @@ I care about code that survives updates, real players using it, and systems that
 - Ship small, improve constantly, and keep production stable  
 - Prefer boring tech that runs for years over flashy stacks that burn out in months  
 - Design for “someone has to maintain this later,” even if that someone is just me
-
----
-
-### GitHub by the numbers
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xxStealthMode&show_icons=true&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxStealthMode&layout=compact&theme=transparent" />
-</p>
